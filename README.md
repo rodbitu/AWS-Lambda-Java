@@ -24,7 +24,7 @@ AWS Lambda Java Starter Example é um projeto que visa testar e demonstrar o uso
 
 - Clone o repositório:
   ```bash
-  git clone https://github.com/seu-usuario/novo-repo.git
+  git clone https://github.com/rodbitu/AWS-Lambda.git
   cd novo-repo
     ```
 - Para testar a função Lambda na AWS, siga os passos abaixo:
